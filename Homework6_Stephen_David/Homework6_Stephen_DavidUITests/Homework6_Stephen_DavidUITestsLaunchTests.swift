@@ -2,7 +2,7 @@
 //  Homework6_Stephen_DavidUITestsLaunchTests.swift
 //  Homework6_Stephen_DavidUITests
 //
-//  Created by Srini Arul David on 9/23/25.
+//  Created by Stephen David on 9/23/25.
 //
 
 import XCTest
